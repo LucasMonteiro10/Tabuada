@@ -1,9 +1,10 @@
 body{
-    background: rgb(24,148,255);
-    background: -moz-linear-gradient(90deg, rgba(24,148,255,1) 0%, rgba(150,70,255,1) 100%);
-    background: -webkit-linear-gradient(90deg, rgba(24,148,255,1) 0%, rgba(150,70,255,1) 100%);
-    background: linear-gradient(90deg, rgba(24,148,255,1) 0%, rgba(150,70,255,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1894ff",endColorstr="#9646ff",GradientType=1);    font: normal 15pt Arial;
+    background: rgb(255,24,24);
+    background: -moz-linear-gradient(90deg, rgba(255,24,24,1) 0%, rgba(255,154,0,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(255,24,24,1) 0%, rgba(255,154,0,1) 100%);
+    background: linear-gradient(90deg, rgba(255,24,24,1) 0%, rgba(255,154,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff1818",endColorstr="#ff9a00",GradientType=1);
+    font: normal 15pt Arial;
 }
 
 header{
